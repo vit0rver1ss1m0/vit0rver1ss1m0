@@ -1,107 +1,142 @@
-<<h1 align="center">Olá! 👋 Eu sou o Vitor</h1>
+<h1 align="center">Olá! 👋 Eu sou o Vitor</h1>
 
 <p align="center">
   Estudante de Ciência da Computação | Engenharia de Software | QA & Testes
 </p>
 
-###
-
 <p align="center">
-  💻 Graduando em Ciência da Computação pela UNINOVE<br>
-  🗄️ Tecnólogo em Banco de Dados<br>
-  🧪 Interesse em QA, testes de software e qualidade<br>
-  ☕ Atualmente estudando Java, SQL e desenvolvimento de software<br>
-  🇧🇷 São Paulo, Brasil
+  💻 Ciência da Computação &nbsp;|&nbsp;
+  🗄️ Banco de Dados &nbsp;|&nbsp;
+  🧪 QA & Testes
 </p>
 
-###
+---
 
-<h2>🚀 Sobre mim</h2>
+## 👨‍💻 Sobre mim
 
-<p>
-Sou estudante de Ciência da Computação e formado em Tecnologia em Banco de Dados,
-direcionando minha carreira para Engenharia de Software, com foco em QA e Testes.
-</p>
+Olá! Eu sou o Vitor, tenho 28 anos e sou estudante de Ciência da Computação.
 
-<p>
-Tenho interesse em desenvolvimento de software, bancos de dados, testes funcionais,
-identificação e documentação de bugs e, futuramente, automação de testes.
-</p>
+Sou formado em Tecnologia em Banco de Dados e atualmente estou direcionando
+minha carreira para Engenharia de Software, com foco em QA e Testes.
 
-<p>
-Atualmente estou fortalecendo meus conhecimentos em lógica de programação,
-Java, SQL e desenvolvimento de aplicações por meio da faculdade e de projetos pessoais.
-</p>
+Tenho interesse em desenvolvimento de software, bancos de dados, testes
+funcionais, identificação e documentação de bugs, qualidade de software
+e automação de testes.
 
-###
+Atualmente estou fortalecendo meus conhecimentos em:
 
-<h2>🛠️ Tecnologias e conhecimentos</h2>
+- ☕ Java
+- 🗄️ SQL e MySQL
+- 🧠 Lógica de programação
+- 💻 Programação Orientada a Objetos
+- 🧪 QA e testes de software
+- 🐞 Identificação e documentação de bugs
+- 🤖 Automação de testes
+
+---
+
+## 🛠️ Tecnologias
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+
 </div>
 
-###
+---
 
-<h2>📚 Atualmente estudando</h2>
+## 📚 Atualmente estudando
 
-* ☕ Java e Programação Orientada a Objetos
-* 🗄️ SQL e bancos de dados relacionais
-* 🧠 Lógica de programação
-* 🧪 Testes de software e QA
-* 🐞 Identificação, documentação e reprodução de bugs
-* 🤖 Automação de testes
-* 💻 Desenvolvimento de aplicações
+- ☕ Java e Programação Orientada a Objetos
+- 🗄️ SQL e bancos de dados relacionais
+- 🧠 Lógica de programação
+- 🧪 Testes de software e QA
+- 🐞 Identificação, reprodução e documentação de bugs
+- 🤖 Automação de testes
+- 💻 Desenvolvimento de aplicações
 
-###
+---
 
-<h2>📂 Projetos</h2>
+## 📂 Projetos
 
-### 🔹 Violet
+### 🎫 Sistema de Chamados
 
-Projeto pessoal de uma assistente virtual, desenvolvido como forma de explorar integração entre programação, inteligência artificial e automações.
+Projeto acadêmico de desenvolvimento de um sistema para gerenciamento de chamados.
+
+**Conceitos e tecnologias:**
+
+- Java
+- MySQL
+- SQL
+- Programação Orientada a Objetos
+- Banco de dados relacional
+- CRUD
+- Documentação
+
+> 🚧 Projeto acadêmico em desenvolvimento.
+
+---
+
+### 🟣 Violet
+
+Projeto pessoal de uma assistente virtual desenvolvido para explorar a integração entre programação, inteligência artificial e automações.
 
 > 🚧 Projeto em desenvolvimento.
 
-### 🔹 Projetos acadêmicos
+---
 
-Projetos desenvolvidos durante a graduação em Ciência da Computação, envolvendo desenvolvimento de aplicações, banco de dados, documentação e Programação Orientada a Objetos.
-
-###
-
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vit0rver1ss1m0&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vit0rver1ss1m0&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Most used languages" />
+
+<img src="./profile/stats.svg" height="170" alt="Estatísticas do GitHub" />
+
+<img src="./profile/top-langs.svg" height="170" alt="Linguagens mais utilizadas" />
+
 </div>
 
-###
+---
 
-<h2>📫 Contato</h2>
+## 📫 Contato
 
 <div align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://www.linkedin.com/in/vitor-verissimo-a2310a342/" width="52" height="40" alt="LinkedIn" />
-  </a>
+
+<a href="https://www.linkedin.com/in/vitor-verissimo-a2310a342/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+</a>
+
 </div>
 
-###
+---
 
-<h2>🐍 Contribuições</h2>
+## 🐍 Contribuições
 
-<img src="https://raw.githubusercontent.com/vit0rver1ss1m0/vit0rver1ss1m0/output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+<img src="./output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições" />
+
+</div>
