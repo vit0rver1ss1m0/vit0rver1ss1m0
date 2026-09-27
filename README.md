@@ -94,7 +94,7 @@ Projetos desenvolvidos durante a graduação em Ciência da Computação, envolv
 
 <div align="left">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+    <img src="https://www.linkedin.com/in/vitor-verissimo-a2310a342/" width="52" height="40" alt="LinkedIn" />
   </a>
 </div>
 
