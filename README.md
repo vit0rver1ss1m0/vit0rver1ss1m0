@@ -4,11 +4,11 @@
 
 <br clear="both">
 
-<p align="center">Olá 👋, eu sou Vitor  Um estudante apaixonado por Ciência de Dados do Brasil.</p>
+<p align="center">Olá 👋, eu sou Vitor  Um estudante apaixonado por Ciência de Computação do Brasil.</p>
 
 ###
 
-<p align="left">💬 Tenho 26 anos, atualmente moro no Brasil. Tenho experiência com SQL, Python, Análise de Dados, Visualização de Dados.</p>
+<p align="left">💬 Tenho 28 anos, atualmente moro no Brasil. 
 
 ###
 
