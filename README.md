@@ -51,20 +51,6 @@ Atualmente estou fortalecendo meus conhecimentos em:
 
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-
 </div>
 
 ---
@@ -109,18 +95,6 @@ Projeto pessoal de uma assistente virtual desenvolvido para explorar a integraç
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img src="./profile/stats.svg" height="170" alt="Estatísticas do GitHub" />
-
-<img src="./profile/top-langs.svg" height="170" alt="Linguagens mais utilizadas" />
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="left">
@@ -131,12 +105,3 @@ Projeto pessoal de uma assistente virtual desenvolvido para explorar a integraç
 
 </div>
 
----
-
-## 🐍 Contribuições
-
-<div align="center">
-
-<img src="./output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições" />
-
-</div>
